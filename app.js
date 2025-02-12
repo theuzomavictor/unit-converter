@@ -6,7 +6,6 @@ const massEl = document.getElementById("mass-el")
 
 btnEl.addEventListener("click", function() {
     let inputValue = Number(inputEl.value)
-    console.log(inputValue)
 
     // FOR METERS
 
