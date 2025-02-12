@@ -58,6 +58,10 @@ p {
 
 }
 
+#btn-el:hover {
+    cursor: pointer;
+}
+
 #top {
     background-color: #6943FF;
     padding: 50px 30px 10px;
